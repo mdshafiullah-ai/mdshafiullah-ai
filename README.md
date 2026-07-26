@@ -1,3 +1,8 @@
+ <p align="center">
+  <img src="banner.png" alt="Mohamed Shafiullah Banner" width="100%">
+</p>
+
+<br>
 ## Hi there 👋
 
 <!--
