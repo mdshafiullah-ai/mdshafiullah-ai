@@ -4,7 +4,7 @@
 
 ---
 
-# Hello, I'm Mohamed Shafiullah.
+# Hello, I'm Mohamed Shafiullah
 
 ### Artificial Intelligence • Research Engineering
 
