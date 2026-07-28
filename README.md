@@ -2,10 +2,6 @@
   <img src="banner.png" alt="Mohamed Shafiullah Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="banner.png" alt="Mohamed Shafiullah Banner" width="100%">
-</p>
-
 ---
 
 # Mohamed Shafiullah
