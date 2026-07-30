@@ -1,7 +1,7 @@
 <p align="center">
   <img src="my_new_banner.png" alt="Mohamed Shafiullah Banner" width="100%">
 </p>
----
+
 
 # Hello, I'm Mohamed Shafiullah
 
