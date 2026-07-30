@@ -4,181 +4,196 @@
 
 <br>
 
-# Mohamed Shafiullah
+<div align="center">
 
-### Artificial Intelligence Engineer
+<h1>Mohamed Shafiullah</h1>
 
-**Building production-grade intelligent systems powered by Artificial Intelligence, Machine Learning, Generative AI, and Modern Software Engineering.**
+<p><b>Artificial Intelligence Engineer</b></p>
 
-<p>
-
-Machine Learning • Deep Learning • Generative AI • LLM Engineering • Computer Vision • Intelligent Systems • Robotics • MLOps
-
-</p>
+<p>Designing intelligent systems that turn AI research into production-grade software.</p>
 
 </div>
-## About
 
-I design, engineer, and deploy intelligent software systems that transform Artificial Intelligence research into scalable, production-ready applications.
+<br/>
 
-My engineering approach combines Machine Learning, Deep Learning, Generative AI, Computer Vision, Intelligent Systems, and modern Software Engineering to build reliable, explainable, and high-performance AI solutions capable of solving real-world problems.
+<h2 align="center">About</h2>
 
-I enjoy building AI products that are practical, scalable, maintainable, and designed for long-term impact.
-## Specializations
+<p align="center">
+I build end-to-end artificial intelligence systems &#8212; from model and data pipeline to the backend that serves them &#8212; with a focus on reliability, explainability, and production readiness.
+</p>
 
-<table>
+<p align="center">
+My work spans applied LLM systems, computer vision, and privacy-preserving machine learning, translating current research into software that holds up under real-world constraints.
+</p>
 
-<tr>
+<br/>
 
-<td width="33%" align="center">
+<h2 align="center">Specializations</h2>
 
-### Artificial Intelligence
+<p align="center">
+<b>Artificial Intelligence &amp; Machine Learning</b><br/>
+<sub>Machine Learning&nbsp;·&nbsp;Deep Learning&nbsp;·&nbsp;Reinforcement Learning</sub>
+</p>
 
-Machine Learning
+<p align="center">
+<b>Generative AI &amp; LLM Engineering</b><br/>
+<sub>Large Language Models&nbsp;·&nbsp;RAG&nbsp;·&nbsp;AI Agents&nbsp;·&nbsp;Multimodal</sub>
+</p>
 
-Deep Learning
+<p align="center">
+<b>Computer Vision</b><br/>
+<sub>Object Detection&nbsp;·&nbsp;OCR&nbsp;·&nbsp;Video Intelligence</sub>
+</p>
 
-Reinforcement Learning
+<p align="center">
+<b>Systems &amp; Infrastructure</b><br/>
+<sub>Backend Engineering&nbsp;·&nbsp;MLOps&nbsp;·&nbsp;AI Infrastructure</sub>
+</p>
 
-Explainable AI
+<p align="center">
+<b>Robotics &amp; Intelligent Systems</b><br/>
+<sub>Autonomy&nbsp;·&nbsp;Perception&nbsp;·&nbsp;Decision Intelligence</sub>
+</p>
 
-</td>
+<br/>
 
-<td width="33%" align="center">
+<h2 align="center">Engineering Principles</h2>
 
-### Generative AI
+> **Reliability before complexity.** Systems should be dependable before they are clever.
+>
+> **Explainable by default.** Prefer models and decisions that can be reasoned about.
+>
+> **Research into production.** An idea earns its place when it ships and holds up.
+>
+> **Documented and reproducible.** Clean, maintainable engineering others can build on.
 
-Large Language Models
+<br/>
 
-Agentic AI
-
-RAG
-
-Multimodal AI
-
-</td>
-
-<td width="33%" align="center">
-
-### Computer Vision
-
-Image Intelligence
-
-Object Detection
-
-OCR
-
-Video Analytics
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### Robotics
-
-Autonomous Systems
-
-Robot Perception
-
-Sensor Fusion
-
-Motion Planning
-
-</td>
-
-<td align="center">
-
-### Intelligent Systems
-
-Decision Intelligence
-
-Knowledge Systems
-
-Optimization
-
-Automation
-
-</td>
-
-<td align="center">
-
-### Software Engineering
-
-Backend Systems
-
-REST APIs
-
-System Design
-
-Cloud-Ready Applications
-
-</td>
-
-</tr>
-
-</table>
-## Engineering Capabilities
-
-- Design end-to-end Artificial Intelligence systems
-- Build production-ready Machine Learning pipelines
-- Develop scalable backend architectures for AI applications
-- Engineer Computer Vision solutions for image and video understanding
-- Build Large Language Model (LLM) applications
-- Design AI Agent workflows with external tool integration
-- Deploy Deep Learning models into production environments
-- Develop explainable and privacy-aware AI systems
-- Integrate Artificial Intelligence into enterprise software
-- Translate research concepts into production-grade engineering solutions
-- ## Technology
-
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | Python • SQL • Java • JavaScript • HTML • CSS |
-| **AI & ML** | TensorFlow • PyTorch • Scikit-learn • Keras • XGBoost • OpenCV |
-| **Generative AI** | LLMs • RAG • AI Agents • Prompt Engineering • VLMs |
-| **Backend** | Flask • FastAPI • REST APIs |
-| **Databases** | MySQL • SQLite |
-| **MLOps** | Docker • Git • GitHub • CI/CD |
-| **Data** | Pandas • NumPy • Matplotlib |
-| **Tools** | VS Code • Jupyter • Linux • Postman |
-## Domains
-
-Healthcare AI • Robotics • Manufacturing • Industrial Automation • Enterprise AI • Smart Cities • Finance • Cybersecurity • Transportation • Supply Chain • Retail • Telecommunications • Agriculture • Climate Technology • Education • Energy • Automotive • Aerospace
-## Research Interests
-
-- Artificial Intelligence
-- Generative AI
-- Large Language Models
-- Reinforcement Learning
-- Computer Vision
-- Vision-Language Models
-- AI Agents
-- Federated Learning
-- Explainable AI
-- AI Safety
-- Edge AI
-- Intelligent Robotics
-- ## Intellectual Property
-
-### PrivacyAuction
-
-**Differentially Private Federated Active Learning Auction System**
-
-Indian Patent Application
-
-A privacy-preserving Artificial Intelligence framework integrating Federated Learning, Differential Privacy, Active Learning, and intelligent resource allocation for secure distributed machine learning.
-## Connect
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-<a href="https://github.com/mdshafiullah-ai">GitHub</a> •
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
-<a href="https://YOUR_PORTFOLIO_WEBSITE.com">Portfolio</a> •
-<a href="mailto:your.email@example.com">Email</a>
+<sub><b>Languages</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
 
+<br/><br/>
+
+<sub><b>AI &amp; ML</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br/><br/>
+
+<sub><b>Backend &amp; Web</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs&theme=dark" />
+
+<br/><br/>
+
+<sub><b>Databases</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" />
+
+<br/><br/>
+
+<sub><b>DevOps &amp; Tools</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+<h2 align="center">Engineering Capabilities</h2>
+
+<p align="center">
+Design end-to-end AI systems&nbsp;·&nbsp;Build production-ready ML pipelines<br/>
+Engineer LLM applications&nbsp;·&nbsp;Build AI agents with tool integration<br/>
+Develop scalable backend services&nbsp;·&nbsp;Design computer vision pipelines<br/>
+Deploy and operate models in production&nbsp;·&nbsp;Translate research into production software
+</p>
+
+<br/>
+
+<h2 align="center">Development Workflow</h2>
+
+<p align="center">
+<kbd>&nbsp;Research&nbsp;</kbd> &#8594; <kbd>&nbsp;Prototype&nbsp;</kbd> &#8594; <kbd>&nbsp;Build&nbsp;</kbd> &#8594; <kbd>&nbsp;Evaluate&nbsp;</kbd> &#8594; <kbd>&nbsp;Deploy&nbsp;</kbd> &#8594; <kbd>&nbsp;Iterate&nbsp;</kbd>
+</p>
+
+<br/>
+
+<h2 align="center">Focus</h2>
+
+<p align="center">
+<sub><b>BUILDING NOW</b></sub><br/>
+Production AI Systems&nbsp;·&nbsp;LLM Engineering&nbsp;·&nbsp;AI Infrastructure&nbsp;·&nbsp;Computer Vision
+</p>
+
+<p align="center">
+<sub><b>EXPLORING NEXT</b></sub><br/>
+AI Agents&nbsp;·&nbsp;Vision-Language Models&nbsp;·&nbsp;Multimodal AI&nbsp;·&nbsp;Edge AI
+</p>
+
+<br/>
+
+<h2 align="center">Industries</h2>
+
+<p align="center">
+Healthcare&nbsp;·&nbsp;Manufacturing&nbsp;·&nbsp;Finance&nbsp;·&nbsp;Cybersecurity&nbsp;·&nbsp;Enterprise AI&nbsp;·&nbsp;Robotics<br/>
+Automation&nbsp;·&nbsp;Supply Chain&nbsp;·&nbsp;Energy&nbsp;·&nbsp;Automotive&nbsp;·&nbsp;Smart Cities
+</p>
+
+<br/>
+
+<h2 align="center">Patent</h2>
+
+<blockquote>
+<div align="center">
+<b>PrivacyAuction</b><br/>
+<sub>Differentially Private Federated Active Learning Auction System</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Indian%20Provisional%20Patent%20Application-0D1117?style=flat-square&labelColor=0D1117" alt="Status" />
+</div>
+</blockquote>
+
+<br/>
+
+<h2 align="center">Research Interests</h2>
+
+<p align="center">
+Generative AI&nbsp;·&nbsp;Large Language Models&nbsp;·&nbsp;Computer Vision&nbsp;·&nbsp;Federated Learning<br/>
+Explainable AI&nbsp;·&nbsp;Responsible AI&nbsp;·&nbsp;Reinforcement Learning&nbsp;·&nbsp;Edge AI
+</p>
+
+<br/>
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mdshafiullah-ai&show_icons=true&hide_rank=false&bg_color=0D1117&title_color=22D3EE&text_color=9BA3C4&icon_color=22D3EE&border_color=30363D&border_radius=12" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mdshafiullah-ai&background=0D1117&border=30363D&stroke=30363D&ring=22D3EE&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=9BA3C4&dates=6E7681" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshafiullah-ai&bg_color=0D1117&color=22D3EE&line=22D3EE&point=E6EDF3&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+<br/>
+
+<h2 align="center">Connect</h2>
+
+<div align="center">
+<a href="https://github.com/mdshafiullah-ai"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" /></a>
+&nbsp;
+<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=E6EDF3" alt="LinkedIn" /></a>
+&nbsp;
+<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=E6EDF3" alt="Portfolio" /></a>
+&nbsp;
+<a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=E6EDF3" alt="Email" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Engineering intelligent systems for real-world impact.</sub>
 </div>
 
