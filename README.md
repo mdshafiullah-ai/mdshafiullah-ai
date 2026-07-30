@@ -22,7 +22,7 @@ Engineering dependable systems around inherently probabilistic AI.
 
 I engineer artificial intelligence systems end to end — the model, the data pipeline, and the backend that serves them — built as dependable production software rather than demos.
 
-My focus is LLM engineering, computer vision, and privacy-preserving machine learning, composed into reliable, scalable systems.
+My work spans LLM engineering and agentic AI, computer vision, and privacy-preserving machine learning, composed into scalable backends and intelligent automation that behave predictably in production.
 
 </div>
 
@@ -30,19 +30,25 @@ My focus is LLM engineering, computer vision, and privacy-preserving machine lea
 
 <div align="center">
 
-### Core Domains
+### Areas of Expertise
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/LLM_Engineering-0D1117?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_Engineering-0D1117?style=flat-square" />
 
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Multimodal_AI-0D1117?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Federated_Learning-0D1117?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Privacy--Preserving_AI-161B22?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Explainable_AI-161B22?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Backend_Engineering-161B22?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/AI_Infrastructure-161B22?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/MLOps-161B22?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/Robotics-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/MLOps-161B22?style=flat-square" />
 
 </div>
 
@@ -52,9 +58,20 @@ My focus is LLM engineering, computer vision, and privacy-preserving machine lea
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,pytorch,tensorflow,opencv&theme=dark" />
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,git,linux,vercel&theme=dark" />
+<sub><b>AI &amp; ML FRAMEWORKS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+
+<sub><b>BACKEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
+
+<sub><b>DATABASES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+
+<sub><b>CLOUD &amp; DEVOPS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vercel&theme=dark" />
 
 </div>
 
@@ -66,11 +83,13 @@ My focus is LLM engineering, computer vision, and privacy-preserving machine lea
 
 <img src="https://img.shields.io/badge/End--to--end_AI_systems-161B22?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/LLM_applications-161B22?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/AI_agents-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_agents-161B22?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Computer_vision_pipelines-161B22?style=flat-square" />
 
+<img src="https://img.shields.io/badge/Production_ML-161B22?style=flat-square" />&nbsp;
 <img src="https://img.shields.io/badge/Scalable_backend_services-161B22?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/Computer_vision_pipelines-161B22?style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/Production_ML_deployment-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_infrastructure-161B22?style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/Intelligent_automation-161B22?style=flat-square" />
 
 </div>
 
@@ -84,28 +103,15 @@ My focus is LLM engineering, computer vision, and privacy-preserving machine lea
 >
 > `Indian Provisional Patent Application`
 
-> ### 📄 &nbsp;HealthPredict AI
+> ### 📄 &nbsp;Published Research
 >
-> **AI-Driven Risk Prediction System for Chronic Diseases Using Supervised Learning on Electronic Health Records**
+> **AI-Driven Risk Prediction System for Chronic Diseases Using Supervised Learning on Electronic Health Records (HealthPredict AI)**
 >
 > A supervised-learning framework for chronic-disease risk prediction from Electronic Health Records, built for explainable and clinically relevant output.
 >
 > `IJRTI — International Journal for Research Trends and Innovation`
 
 ---
-
-<div align="center">
-
-### Analytics
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mdshafiullah-ai&show_icons=true&hide_rank=false&bg_color=0D1117&title_color=22D3EE&text_color=9BA3C4&icon_color=22D3EE&border_color=30363D&border_radius=12" />
-<img height="160" src="https://streak-stats.demolab.com/?user=mdshafiullah-ai&background=0D1117&border=30363D&stroke=30363D&ring=22D3EE&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=9BA3C4&dates=6E7681" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshafiullah-ai&bg_color=0D1117&color=22D3EE&line=22D3EE&point=E6EDF3&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -118,4 +124,3 @@ My focus is LLM engineering, computer vision, and privacy-preserving machine lea
 <a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=E6EDF3" alt="Email" /></a>
 
 </div>
-
