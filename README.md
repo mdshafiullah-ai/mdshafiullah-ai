@@ -95,7 +95,7 @@ My work spans LLM engineering and agentic AI, computer vision, and privacy-prese
 
 ---
 
-> ### 🏆 &nbsp;PrivacyAuction
+> ### 🏆 &nbsp;Privicore AI
 >
 > **Differentially Private Federated Active Learning Auction System**
 >
