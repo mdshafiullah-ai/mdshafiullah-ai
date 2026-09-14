@@ -108,6 +108,8 @@ I am equally interested in the **research behind intelligent systems** and the e
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" />
 &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="48" />
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ollama/000000" height="48" />
 
 </div>
