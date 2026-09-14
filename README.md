@@ -100,15 +100,15 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/openai/412991" height="48" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlegemini.svg" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/huggingface.svg" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/ollama.svg" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/ollama/000000" height="48" />
 
 </div>
 
