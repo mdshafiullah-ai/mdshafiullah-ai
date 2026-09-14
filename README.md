@@ -24,11 +24,7 @@
 
 ---
 
-<div align="center">
-
 ## 👋 About
-
-</div>
 
 I build **AI and machine learning systems** that connect models, data, software, and infrastructure — moving from experimentation and research toward reliable real-world applications.
 
@@ -43,6 +39,8 @@ I am equally interested in the **research behind intelligent systems** and the e
 <div align="center">
 
 ## 🌐 AI & ML Landscape
+
+*Exploring intelligence from foundational learning to production systems.*
 
 </div>
 
@@ -80,6 +78,8 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 ## ⚙️ Technology Stack
 
+*Tools I use to turn ideas and models into working systems.*
+
 </div>
 
 ### 💻 Languages
@@ -98,7 +98,7 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 </div>
 
-### 🤖 Generative AI & Intelligent Applications
+### 🤖 Generative AI & LLM
 
 <div align="center">
 
@@ -134,71 +134,89 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 <div align="center">
 
-## 🏗️ Engineering
+## 🏗️ Engineering Spectrum
+
+*From intelligent models to dependable software systems.*
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
 
-### 🧠 Intelligent Systems
+<td width="50%">
 
-AI applications  
-LLM systems  
-RAG pipelines  
-AI agents  
-Computer vision systems  
-Multimodal applications
+### 🧠 Model & ML Engineering
+
+Building and evaluating learning systems.
+
+**Model Development**  
+**Training & Fine-tuning**  
+**Feature Engineering**  
+**Experimentation**  
+**Evaluation & Benchmarking**  
+**Inference Pipelines**
+
+</td>
+
+<td width="50%">
+
+### 🤖 Generative AI Engineering
+
+Building useful systems around modern foundation models.
+
+**LLM Applications**  
+**Prompt Engineering**  
+**RAG & Knowledge Systems**  
+**Embeddings & Vector Search**  
+**Fine-tuning & Adaptation**  
+**AI Agents & Tool Calling**  
+**Structured Generation**  
+**LLM Evaluation & Guardrails**
 
 </td>
 
-<td align="center" width="50%">
-
-### ⚙️ ML Engineering
-
-Model development  
-Training & experimentation  
-Evaluation & benchmarking  
-Inference systems  
-Production ML  
-ML pipelines
-
-</td>
 </tr>
 
 <tr>
-<td align="center" width="50%">
 
-### 🚀 AI Systems Engineering
+<td width="50%">
 
-Backend services  
-AI APIs  
-Model serving  
-Scalable architectures  
-AI infrastructure  
-Intelligent automation
+### 👁️ Applied & Specialized AI
+
+Applying machine intelligence across different forms of data.
+
+**Computer Vision Pipelines**  
+**Image & Video Intelligence**  
+**NLP Systems**  
+**Speech & Audio AI**  
+**Predictive Systems**  
+**Specialized ML Applications**
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Production AI Engineering
+
+Taking intelligent systems beyond experimentation.
+
+**Model Serving**  
+**AI APIs & Backend Systems**  
+**MLOps & Deployment**  
+**AI Infrastructure**  
+**Scalable Architectures**  
+**Monitoring & Observability**
 
 </td>
 
-<td align="center" width="50%">
-
-### 🔐 Trustworthy AI
-
-Privacy-preserving ML  
-Federated learning  
-Differential privacy  
-Explainable AI  
-AI evaluation  
-Responsible AI
-
-</td>
 </tr>
 </table>
 
 ---
 
 <div align="center">
+
+> **From research questions to engineered systems.**
 
 ## 🔬 Research & Innovation
 
@@ -228,7 +246,7 @@ A supervised-learning framework for chronic-disease risk prediction from Electro
 
 ## 🚀 Selected Work
 
-*Building and documenting AI/ML systems across research, intelligent applications, computer vision, and production engineering.*
+*Building AI/ML systems across intelligent applications, computer vision, research, and production engineering.*
 
 </div>
 
@@ -248,11 +266,7 @@ A supervised-learning framework for chronic-disease risk prediction from Electro
 
 ---
 
-<div align="center">
-
 ## 🌱 Beyond the Models
-
-</div>
 
 Technology is only one part of what I enjoy building.
 
@@ -260,7 +274,7 @@ Technology is only one part of what I enjoy building.
 - 🏛️ **Event planning, coordination & execution**
 - 🤝 **Leadership & team collaboration**
 - 🎙️ **Technical talks, lectures & student sessions**
-- 📝 **Editorial and academic activities**
+- 📝 **Editorial & academic activities**
 - 🌐 **Community, academic & technology engagement**
 
 I enjoy bringing together **people, ideas, technology, and execution** — not just writing the code behind them.
@@ -294,10 +308,10 @@ and ambitious engineering projects.
 
 *Good ideas become better when built together.*
 
-<br><br>
+<br>
 
 **Thanks for stopping by! 👋**
 
-*Keep exploring. Keep building.*
+🧠 *Think deeply. Build boldly. Make intelligence useful.*
 
 </div>
