@@ -9,15 +9,15 @@
 <br>
 
 <a href="https://github.com/mdshafiullah-ai">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mdshafiullah-ai/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:Khalid758128@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -78,137 +78,49 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 ## ⚙️ Technology Stack
 
-*Tools I use to turn ideas and models into working systems.*
-
-</div>
-
-### 💻 Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
-
-</div>
-
-### 🧠 AI / ML / Deep Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-
-</div>
-
-### 🤖 Generative AI & LLM
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" />
-
-</div>
-
-### ⚡ Backend & APIs
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
-
-</div>
-
-### 🗄️ Data & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-
-</div>
-
-### ☁️ Infrastructure & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏗️ Engineering Spectrum
-
-*From intelligent models to dependable software systems.*
-
 </div>
 
 <table align="center">
 <tr>
-
-<td width="50%">
-
-### 🧠 Model & ML Engineering
-
-Building and evaluating learning systems.
-
-**Model Development**  
-**Training & Fine-tuning**  
-**Feature Engineering**  
-**Experimentation**  
-**Evaluation & Benchmarking**  
-**Inference Pipelines**
-
+<td width="190"><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
 </td>
-
-<td width="50%">
-
-### 🤖 Generative AI Engineering
-
-Building useful systems around modern foundation models.
-
-**LLM Applications**  
-**Prompt Engineering**  
-**RAG & Knowledge Systems**  
-**Embeddings & Vector Search**  
-**Fine-tuning & Adaptation**  
-**AI Agents & Tool Calling**  
-**Structured Generation**  
-**LLM Evaluation & Guardrails**
-
-</td>
-
 </tr>
 
 <tr>
-
-<td width="50%">
-
-### 👁️ Applied & Specialized AI
-
-Applying machine intelligence across different forms of data.
-
-**Computer Vision Pipelines**  
-**Image & Video Intelligence**  
-**NLP Systems**  
-**Speech & Audio AI**  
-**Predictive Systems**  
-**Specialized ML Applications**
-
+<td><b>🧠 AI / ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </td>
+</tr>
 
-<td width="50%">
-
-### ⚙️ Production AI Engineering
-
-Taking intelligent systems beyond experimentation.
-
-**Model Serving**  
-**AI APIs & Backend Systems**  
-**MLOps & Deployment**  
-**AI Infrastructure**  
-**Scalable Architectures**  
-**Monitoring & Observability**
-
+<tr>
+<td><b>🤖 Generative AI</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=openai,huggingface,langchain,ollama&theme=dark" />
 </td>
+</tr>
 
+<tr>
+<td><b>⚡ Backend & APIs</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Data & Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+</td>
+</tr>
+
+<tr>
+<td><b>☁️ Infrastructure</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=dark" />
+</td>
 </tr>
 </table>
 
@@ -216,9 +128,35 @@ Taking intelligent systems beyond experimentation.
 
 <div align="center">
 
-> **From research questions to engineered systems.**
+## 🏗️ Engineering Focus
+
+*Where models become systems.*
+
+</div>
+
+### 🧠 01 — Model & ML Engineering
+
+`Model Development` · `Training & Fine-tuning` · `Feature Engineering` · `Experimentation` · `Evaluation & Benchmarking` · `Inference Pipelines`
+
+### 🤖 02 — Generative AI Engineering
+
+`LLM Applications` · `Prompt Engineering` · `RAG` · `Knowledge Systems` · `Embeddings & Vector Search` · `Fine-tuning & Adaptation` · `AI Agents` · `Tool Calling` · `Structured Generation` · `LLM Evaluation` · `Guardrails`
+
+### 👁️ 03 — Applied & Specialized AI
+
+`Computer Vision` · `Image Intelligence` · `Video Intelligence` · `NLP Systems` · `Speech & Audio AI` · `Predictive Systems` · `Specialized ML Applications`
+
+### ⚙️ 04 — Production AI Engineering
+
+`Model Serving` · `AI APIs` · `Backend Systems` · `MLOps` · `Deployment` · `AI Infrastructure` · `Scalable Architectures` · `Monitoring & Observability`
+
+---
+
+<div align="center">
 
 ## 🔬 Research & Innovation
+
+*From research questions to engineered systems.*
 
 </div>
 
@@ -260,9 +198,9 @@ A supervised-learning framework for chronic-disease risk prediction from Electro
 
 **Research** → **Experiment** → **Evaluate** → **Engineer** → **Deploy** → **Improve**
 
-</div>
-
 > **I care about what happens after the model works.**
+
+</div>
 
 ---
 
@@ -290,25 +228,19 @@ I enjoy bringing together **people, ideas, technology, and execution** — not j
 I'm open to meaningful collaborations, research discussions,
 and ambitious engineering projects.
 
-<br>
-
 <a href="https://github.com/mdshafiullah-ai">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/mdshafiullah-ai/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:Khalid758128@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
 *Good ideas become better when built together.*
-
-<br>
 
 **Thanks for stopping by! 👋**
 
