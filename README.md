@@ -100,9 +100,9 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/openai/412991" height="48" />
-&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
 &nbsp;&nbsp;
@@ -212,7 +212,7 @@ A supervised-learning framework for chronic-disease risk prediction from Electro
 
 **Research** → **Experiment** → **Evaluate** → **Engineer** → **Deploy** → **Improve**
 
-> **I care about what happens after the model works.**
+*I care about what happens after the model works.*
 
 </div>
 
