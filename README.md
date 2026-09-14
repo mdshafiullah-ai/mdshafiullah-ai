@@ -50,11 +50,11 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 ### ✨ Generative & Language Intelligence
 
-**Generative AI** · **Large Language Models** · **LLM Engineering** · **Natural Language Processing** · **RAG** · **Information Retrieval** · **Embeddings** · **Knowledge Systems**
+**Generative AI** · **Large Language Models** · **Transformer Architectures** · **Natural Language Processing** · **LLM Engineering** · **Prompt Engineering** · **RAG** · **Information Retrieval** · **Embeddings** · **Knowledge Systems**
 
 ### 🤖 Intelligent Systems
 
-**Agentic AI** · **AI Agents** · **Reasoning Systems** · **Tool-Using AI** · **Multi-Agent Systems** · **Intelligent Automation**
+**Agentic AI** · **AI Agents** · **Reasoning Systems** · **Tool-Using AI** · **Function Calling** · **Multi-Agent Systems** · **Intelligent Automation**
 
 ### 👁️ Perception & Multimodal Intelligence
 
@@ -80,49 +80,65 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 </div>
 
-<table align="center">
-<tr>
-<td width="190"><b>💻 Languages</b></td>
-<td>
+### 💻 Languages
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
-</td>
-</tr>
 
-<tr>
-<td><b>🧠 AI / ML</b></td>
-<td>
+</div>
+
+### 🧠 AI / ML / Deep Learning
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-</td>
-</tr>
 
-<tr>
-<td><b>🤖 Generative AI</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=openai,huggingface,langchain,ollama&theme=dark" />
-</td>
-</tr>
+</div>
 
-<tr>
-<td><b>⚡ Backend & APIs</b></td>
-<td>
+### 🤖 Generative AI & LLM
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/openai/000000" height="48" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/000000" height="48" />
+
+</div>
+
+<p align="center">
+
+`LLMs` · `Transformers` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Search` · `Fine-tuning` · `PEFT / LoRA` · `Quantization` · `AI Agents` · `Tool Calling` · `Structured Outputs` · `LLM Evaluation` · `Guardrails` · `Multimodal AI`
+
+</p>
+
+### ⚡ Backend & APIs
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" />
-</td>
-</tr>
 
-<tr>
-<td><b>🗄️ Data & Databases</b></td>
-<td>
+</div>
+
+### 🗄️ Data & Databases
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-</td>
-</tr>
 
-<tr>
-<td><b>☁️ Infrastructure</b></td>
-<td>
+</div>
+
+### ☁️ Infrastructure & DevOps
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=dark" />
-</td>
-</tr>
-</table>
+
+</div>
 
 ---
 
@@ -140,7 +156,7 @@ I am equally interested in the **research behind intelligent systems** and the e
 
 ### 🤖 02 — Generative AI Engineering
 
-`LLM Applications` · `Prompt Engineering` · `RAG` · `Knowledge Systems` · `Embeddings & Vector Search` · `Fine-tuning & Adaptation` · `AI Agents` · `Tool Calling` · `Structured Generation` · `LLM Evaluation` · `Guardrails`
+`Foundation Models` · `LLM Applications` · `Prompt Engineering` · `RAG` · `Retrieval Pipelines` · `Embeddings` · `Vector Search` · `Knowledge Systems` · `Fine-tuning` · `PEFT / LoRA` · `Quantization` · `AI Agents` · `Tool Calling` · `Function Calling` · `Structured Generation` · `Multimodal AI` · `LLM Evaluation` · `Guardrails`
 
 ### 👁️ 03 — Applied & Specialized AI
 
